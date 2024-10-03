@@ -1,0 +1,13 @@
+../Src/hal.c:22:11:read_voltage	24	static
+../Src/hal.c:99:11:mcp4241_incr	24	static
+../Src/hal.c:121:11:mcp4241_decr	24	static
+../Src/hal.c:143:11:mcp4241_write	24	static
+../Src/hal.c:168:11:mcp4241_read	24	static
+../Src/hal.c:50:11:mcp4241_init	40	static
+../Src/hal.c:194:6:send_cmd	80	static
+../Src/hal.c:214:11:rn4020_init	56	static
+../Src/hal.c:353:6:rn4020_connect	16	static
+../Src/hal.c:374:8:rn4020_get_connect_state	0	static
+../Src/hal.c:379:11:lsm6dso32_init	40	static
+../Src/hal.c:421:11:read_axis_dps	32	static
+../Src/hal.c:442:11:hal_init	16	static

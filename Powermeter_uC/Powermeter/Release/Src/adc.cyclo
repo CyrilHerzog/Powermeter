@@ -1,0 +1,4 @@
+adc.c:16:6:adc_reset	1
+adc.c:21:14:adc_init	4
+adc.c:66:14:adc_cal	8
+adc.c:94:14:adc_read	3

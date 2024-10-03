@@ -1,0 +1,4 @@
+../Src/spi.c:16:6:spix_reset	0	static
+../Src/spi.c:23:6:spi_init	40	static
+../Src/spi.c:90:14:spi_write	24	static
+../Src/spi.c:110:14:spi_transaction	40	static

@@ -1,0 +1,4 @@
+gpio.c:20:6:gpiox_reset	1
+gpio.c:28:6:gpio_config	7
+gpio.c:69:6:gpio_set_val	2
+gpio.c:76:8:gpio_get_val	1

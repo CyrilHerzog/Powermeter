@@ -1,0 +1,4 @@
+spi.c:16:6:spix_reset	1
+spi.c:23:6:spi_init	2
+spi.c:90:14:spi_write	6
+spi.c:110:14:spi_transaction	8
