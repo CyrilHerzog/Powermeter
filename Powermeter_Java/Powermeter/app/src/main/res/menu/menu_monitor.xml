@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_power"
+        android:title="Leistung" />
+
+    <item
+        android:id="@+id/menu_item_average_power"
+        android:title="Mittlere Leistung" />
+
+    <item
+        android:id="@+id/menu_item_max_power"
+        android:title="Maximale Leistung" />
+
+    <item
+        android:id="@+id/menu_item_energy"
+        android:title="Arbeit" />
+
+    <item
+        android:id="@+id/menu_item_frequency"
+        android:title="Trittfrequenz" />
+
+    <item
+        android:id="@+id/menu_item_degree"
+        android:title="Winkel" />
+
+    <item
+        android:id="@+id/menu_item_force"
+        android:title="Kraft" />
+
+</menu>
