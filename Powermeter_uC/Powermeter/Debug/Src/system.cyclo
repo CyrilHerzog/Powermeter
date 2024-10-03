@@ -1,0 +1,9 @@
+system.c:48:6:__OS	2
+system.c:71:6:task_config	1
+system.c:76:6:wait	2
+system.c:86:6:print	2
+system.c:108:6:SysTick_Handler	1
+system.c:116:10:get_ticks	1
+system.c:121:6:PendSV_Handler	1
+system.c:127:6:TIM2_IRQHandler	2
+system.c:138:14:init_system	2

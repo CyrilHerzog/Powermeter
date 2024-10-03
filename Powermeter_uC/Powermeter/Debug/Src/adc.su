@@ -1,0 +1,4 @@
+../Src/adc.c:16:6:adc_reset	8	static
+../Src/adc.c:21:14:adc_init	32	static
+../Src/adc.c:66:14:adc_cal	16	static
+../Src/adc.c:94:14:adc_read	24	static

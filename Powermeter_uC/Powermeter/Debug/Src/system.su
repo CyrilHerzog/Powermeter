@@ -1,0 +1,9 @@
+../Src/system.c:48:6:__OS	16	static,ignoring_inline_asm
+../Src/system.c:71:6:task_config	16	static
+../Src/system.c:76:6:wait	24	static,ignoring_inline_asm
+../Src/system.c:86:6:print	88	static
+../Src/system.c:108:6:SysTick_Handler	8	static
+../Src/system.c:116:10:get_ticks	8	static
+../Src/system.c:121:6:PendSV_Handler	8	static
+../Src/system.c:127:6:TIM2_IRQHandler	8	static
+../Src/system.c:138:14:init_system	40	static,ignoring_inline_asm

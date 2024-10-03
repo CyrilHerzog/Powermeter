@@ -1,0 +1,13 @@
+hal.c:22:11:read_voltage	3
+hal.c:50:11:mcp4241_init	4
+hal.c:99:11:mcp4241_incr	3
+hal.c:121:11:mcp4241_decr	3
+hal.c:143:11:mcp4241_write	3
+hal.c:168:11:mcp4241_read	3
+hal.c:194:6:send_cmd	2
+hal.c:214:11:rn4020_init	7
+hal.c:353:6:rn4020_connect	4
+hal.c:374:8:rn4020_get_connect_state	1
+hal.c:379:11:lsm6dso32_init	3
+hal.c:421:11:read_axis_dps	2
+hal.c:442:11:hal_init	6
